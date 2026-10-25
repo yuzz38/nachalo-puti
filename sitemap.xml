@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nachaloputi.ru/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://nachaloputi.ru/img/balloon-wall-lg.jpg</image:loc><image:title>Интерьер магазина «Начало пути», Красноярск</image:title></image:image>
+    <image:image><image:loc>https://nachaloputi.ru/img/storefront-lg.jpg</image:loc><image:title>Вход в магазин «Начало пути» на Парусной, 3</image:title></image:image>
+    <image:image><image:loc>https://nachaloputi.ru/img/shelves-lg.jpg</image:loc><image:title>Комплекты на выписку</image:title></image:image>
+    <image:image><image:loc>https://nachaloputi.ru/img/bibs-stand-lg.jpg</image:loc><image:title>Пустышки BIBS в Красноярске</image:title></image:image>
+  </url>
+</urlset>

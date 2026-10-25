@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&fbclid&yclid
+
+# Генеративные поисковики и ИИ-ассистенты (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: YandexAdditional
+Allow: /
+
+Host: https://nachaloputi.ru
+Sitemap: https://nachaloputi.ru/sitemap.xml

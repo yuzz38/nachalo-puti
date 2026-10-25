@@ -1,0 +1,9 @@
+/* TEAM */
+Developer & design: Полунин Лев
+Contact: levapolunin@gmail.com
+From: Russia
+
+/* SITE */
+Last update: 2026-10-24
+Language: Russian
+Standards: HTML5, CSS3, ES5+
